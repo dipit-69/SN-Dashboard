@@ -21,9 +21,43 @@ Skill Nation Sales Analysis is a Power BI dashboard that visualizes company-wide
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard-preview.png)
+![Dashboard Screenshot](https://github.com/dipit-69/SN-Dashboard/blob/main/sn-dashboard.jpg)
 
 ---
 
 ## 📁 Project Structure
+📂 skill-nation-sales-dashboard/
+├── 📊 Skill_Nation_Dashboard.pbix # Power BI file
+├── 📸 dashboard-preview.png # Dashboard image
+└── 📄 README.md # Project documentation
+
+
+---
+
+## 🧠 Tools & Technologies
+
+- **Power BI Desktop**
+- DAX for custom KPIs
+- Power Query for ETL
+- Excel/CSV data integration
+- Advanced filtering & slicers
+
+---
+
+## 🔍 Key Visuals & Metrics
+
+- ✅ **Total Sales, Cost, and Profit KPIs**
+- 🌐 **World Map of First City by Country/Region**
+- 📊 **Bar Charts by Sub-Category**
+- 🥧 **Pie Chart by Region**
+- 📈 **Line Chart: Orders Over Time**
+- 🧮 **Table: Customer-wise Profit Breakdown**
+
+---
+
+## 🚀 How to Use
+
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/your-username/skill-nation-sales-dashboard.git
 
