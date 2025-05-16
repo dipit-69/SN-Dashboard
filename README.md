@@ -59,5 +59,5 @@ Skill Nation Sales Analysis is a Power BI dashboard that visualizes company-wide
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-username/skill-nation-sales-dashboard.git
+   git clone https://github.com/dipit-69/skill-nation-sales-dashboard.git
 
